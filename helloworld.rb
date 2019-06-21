@@ -1,1 +1,1 @@
-hello word from ruby
+puts hello word from ruby
